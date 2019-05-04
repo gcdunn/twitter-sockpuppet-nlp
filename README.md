@@ -9,10 +9,14 @@ The Internet Research Agency and other nefarious operators famously used Twitter
 
 * When were these accounts created?  How did the number of tweets evolve over time?  Did any spikes on these tweets synchronize with important events leading up to the election?
 
-* What are the recurring patterns in these texts at different levels of aggregation?  What were these accounts tweeting about?
+* What topics were these accounts tweeting about?
 
 * Which politicians, media persons, locations, or organizations are mentioned?
 
 * How do the sentiments of tweets about different named entities (for example, politicians or political movements) compare?
 
-* How do these fake accounts cluster according to text content?
+* How do these fake accounts cluster according to tweet content?
+
+* How does the retweeted content compare to original content?
+
+* What types of voices were amplified through retweets?
